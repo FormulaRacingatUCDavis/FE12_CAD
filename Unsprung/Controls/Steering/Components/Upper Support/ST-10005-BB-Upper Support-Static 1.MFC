@@ -1,0 +1,16 @@
+[StartTime]
+ST-10005-BB-Upper Support-Static 1.MFC=4s
+[SolverState]
+ST-10005-BB-Upper Support-Static 1.MFC=2
+[MainFrame]
+ST-10005-BB-Upper Support-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEAGAAAAAHGCAAAAAMGHAAAAAKDDAAAAA
+[ShowMin]
+ST-10005-BB-Upper Support-Static 1.MFC=No
+[SolverType]
+ST-10005-BB-Upper Support-Static 1.MFC=Linear Analysis
+[StudyType]
+ST-10005-BB-Upper Support-Static 1.MFC=0
+[StudyName]
+ST-10005-BB-Upper Support-Static 1.MFC=Static 1
+[Solver]
+ST-10005-BB-Upper Support-Static 1.MFC=Iterative
