@@ -1,0 +1,16 @@
+[StartTime]
+BR-20002-AG-Brake Pedal Arm-Static 3.MFC=2s
+[SolverState]
+BR-20002-AG-Brake Pedal Arm-Static 3.MFC=2
+[MainFrame]
+BR-20002-AG-Brake Pedal Arm-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEAGAAAAAHGCAAAAAMGHAAAAAKDDAAAAA
+[ShowMin]
+BR-20002-AG-Brake Pedal Arm-Static 3.MFC=No
+[SolverType]
+BR-20002-AG-Brake Pedal Arm-Static 3.MFC=Linear Analysis
+[StudyType]
+BR-20002-AG-Brake Pedal Arm-Static 3.MFC=0
+[StudyName]
+BR-20002-AG-Brake Pedal Arm-Static 3.MFC=Static 3
+[Solver]
+BR-20002-AG-Brake Pedal Arm-Static 3.MFC=Sparse
