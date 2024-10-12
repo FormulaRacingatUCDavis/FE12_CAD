@@ -1,0 +1,18 @@
+[StartTime]
+BR-00001-BH-Heel Plate-Static 2.MFC=8s
+[SolverState]
+BR-00001-BH-Heel Plate-Static 2.MFC=2
+[MainFrame]
+BR-00001-BH-Heel Plate-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+BR-00001-BH-Heel Plate-Static 2.MFC=No
+[SolverType]
+BR-00001-BH-Heel Plate-Static 2.MFC=Linear Analysis
+[StudyType]
+BR-00001-BH-Heel Plate-Static 2.MFC=0
+[StudyName]
+BR-00001-BH-Heel Plate-Static 2.MFC=Static 2
+[Solver]
+BR-00001-BH-Heel Plate-Static 2.MFC=Sparse
+[Dynamic]
+BR-00001-BH-Heel Plate-Static 2.MFC=0
