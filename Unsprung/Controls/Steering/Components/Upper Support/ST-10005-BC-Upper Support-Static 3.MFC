@@ -1,0 +1,16 @@
+[StartTime]
+ST-10005-BC-Upper Support-Static 3.MFC=3s
+[SolverState]
+ST-10005-BC-Upper Support-Static 3.MFC=2
+[MainFrame]
+ST-10005-BC-Upper Support-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAHCBAAAAAEDDAAAAAKPBAAAAA
+[ShowMin]
+ST-10005-BC-Upper Support-Static 3.MFC=No
+[SolverType]
+ST-10005-BC-Upper Support-Static 3.MFC=Linear Analysis
+[StudyType]
+ST-10005-BC-Upper Support-Static 3.MFC=0
+[StudyName]
+ST-10005-BC-Upper Support-Static 3.MFC=Static 3
+[Solver]
+ST-10005-BC-Upper Support-Static 3.MFC=Sparse

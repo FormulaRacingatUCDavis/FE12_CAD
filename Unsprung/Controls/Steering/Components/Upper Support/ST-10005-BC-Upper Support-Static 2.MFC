@@ -1,5 +1,5 @@
 [StartTime]
-ST-10005-BC-Upper Support-Static 2.MFC=2s
+ST-10005-BC-Upper Support-Static 2.MFC=3s
 [SolverState]
 ST-10005-BC-Upper Support-Static 2.MFC=2
 [MainFrame]
@@ -13,4 +13,4 @@ ST-10005-BC-Upper Support-Static 2.MFC=0
 [StudyName]
 ST-10005-BC-Upper Support-Static 2.MFC=Static 2
 [Solver]
-ST-10005-BC-Upper Support-Static 2.MFC=Iterative
+ST-10005-BC-Upper Support-Static 2.MFC=Sparse
